@@ -1,4 +1,4 @@
-package simulator.com
+package me.dio.simulator
 
 import org.junit.Test
 
